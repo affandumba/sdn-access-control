@@ -295,3 +295,22 @@ sudo service openvswitch-switch start
 3. Mininet Walkthrough — https://mininet.org/walkthrough/
 4. Ryu packet_in example — https://ryu.readthedocs.io/en/latest/writing_ryu_app.html
 5. OVS flow dump — https://www.openvswitch.org/support/dist-docs/ovs-ofctl.8.txt
+
+
+## Screenshots
+
+### Scenario 1 - Authorized hosts
+<img width="868" height="617" alt="image" src="https://github.com/user-attachments/assets/d8b5494e-1b2c-45b4-bac0-0f6c67a3a109" />
+
+
+### Scenario 2 - Unauthorized host blocked
+<img width="871" height="678" alt="image" src="https://github.com/user-attachments/assets/ad9713f5-7752-443b-b94a-be21d303ace1" />
+
+
+### Flow Table
+<img width="1338" height="185" alt="image" src="https://github.com/user-attachments/assets/ada16a51-dffd-4ae9-8941-968146b57755" />
+
+
+### Access Logs
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/4594d00a-707c-4eb3-8180-9fafd281efc1" />
+
